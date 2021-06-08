@@ -1,12 +1,12 @@
 # Taktile Coding Challenge
 
-Goal of this challenge is to implement `fold` in the language of your choice.
+Your challenge is to implement `fold` in the language of your choice.
 
 ## Description
 
 `fold` is a higher order function that takes
-* a sequence of A
-* a "starting" value B
+* a sequence of type A
+* a "starting" value of type B
 * a function (A, B) -> B
 
 and returns a B. E.g., the `sum` of an array is a special case of fold, where
@@ -29,7 +29,7 @@ Send us a link to your fork **within 1 week** of being invited to participate on
 ## Timebox
 
 Aim to use about 1 hour of time on the solution, don't use more than 2 hours. Here are some
-criteria which we use to judge your implementation
+criteria which we use to judge your implementation:
 
 * Documentation
 * Packaging
@@ -40,7 +40,7 @@ criteria which we use to judge your implementation
 * Correntness of types (if applicable)
 * Speed of implemenation
 
-Note that with the timebox of at most 2 hours, you most likely won't be able to
-check all the boxes above.
-
+Please don't stress if your solution isn't perfect. With a timebox of at most 2 hours, 
+you most likely won't be able to check all the boxes above. This challenge is intended as an 
+exercise in tradeoffs.
 
