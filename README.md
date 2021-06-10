@@ -28,19 +28,20 @@ Send us a link to your fork **within 1 week** of being invited to participate on
 
 ## Timebox
 
-Aim to use about 1 hour of time on the solution, don't use more than 2 hours. Here are some
-criteria which we use to judge your implementation:
+Aim to use about 1 hour of time on the solution, don't use more than 2 hours. We give roughly
+equal weight to the each of the following:
 
 * Documentation
 * Packaging
 * Testing
 * Readability of code
 * Correctness of implementation
+* Performance
 * Generality
 * Correntness of types (if applicable)
-* Speed of implemenation
 
 Please don't stress if your solution isn't perfect. With a timebox of at most 2 hours, 
 you most likely won't be able to check all the boxes above. This challenge is intended as an 
-exercise in tradeoffs.
+exercise in tradeoffs. We want to understand how you view the overall value and lifecycle
+of software.
 
