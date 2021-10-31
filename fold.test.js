@@ -1,7 +1,5 @@
+import { fold } from "./fold.js";
 import test from "ava";
-
-// TODO: import implemented fold function
-const fold = () => {};
 
 test("returns expected result when passed numbers array and inital number", async (t) => {
   const res = fold(
