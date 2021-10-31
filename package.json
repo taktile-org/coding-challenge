@@ -9,5 +9,11 @@
   },
   "repository": "git@github.com:maraschneider/coding-challenge.git",
   "author": "Maraike Schneider <maschn93+github@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
 }
