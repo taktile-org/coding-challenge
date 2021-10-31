@@ -1,0 +1,19 @@
+{
+  "name": "fold",
+  "version": "1.0.0",
+  "description": "implementation of a fold function in JavaScript",
+  "main": "fold.js",
+  "type": "module",
+  "engines": {
+    "node": ">12"
+  },
+  "repository": "git@github.com:maraschneider/coding-challenge.git",
+  "author": "Maraike Schneider <maschn93+github@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
+}
